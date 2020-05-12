@@ -124,7 +124,7 @@ section#corpo {
 }
 
 article#noticia-principal h2 {
-	font-size: 12pt;
+	font-size: 13pt;
 	color: #606060;
 	background-color: #dddddd;
 	padding: 5px 0px 5px 10px;
@@ -140,29 +140,31 @@ table#tabelaspec {
 	margin-right: auto;
 }
 table#tabelaspec td{
-	border: 1px solid #606060;
-	padding-right; 10px; 
-	text-align: center;
-	vertical-align: middle;
+ border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
 	
 }
 
 table#tabelaspec td.ce{
-	Color: #fffff; 
-	background-color: #606060;
-	vertical-align: top:
-	font-weight: bold; 
+	 color: #ffffff;
+    background-color: #606060;
+    vertical-align: top;
+    font-weight: bold;
+    text-align: right;
 }
 
 table#tabelaspec td.cd { 
-	background-color: #cecece; 
+	background-color: #cecece;
+    text-align: left;; 
 
 }
 	
 table#tabelaspec caption {
 	color: #88888;
 	font-size: 13pt; 
-	font-weight: bold; 
+	font-weight: bolder; 
 
 }
 table#tabelaspec span {
@@ -186,7 +188,7 @@ aside#lateral h1 {
 	font-family: 'FonteLogo', sans-serif;
     font-size: 20pt;
     color: #606060;
-    margin-top: 0px;
+    margin-top: 0px;;
 }
 aside#lateral h2{
     background-color: #606060;
